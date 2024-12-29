@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 04/12/2024
 
@@ -31,8 +31,6 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
-
 ## Support Removal Process
 ![image](https://github.com/user-attachments/assets/b81661cc-2124-40aa-a7d4-1c997ca31cfe)
 ![image](https://github.com/user-attachments/assets/28c2d787-a2c8-4def-9cfd-f3d007954b76)
@@ -62,4 +60,5 @@
 ### Register Number:24900751
 
 ## Result: 
+
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
